@@ -2,6 +2,11 @@
 
 The goal of these [Google Colab](https://colab.research.google.com/) notebooks is to catpure the distribution of Steam banners and generate new samples.
 
+## Usage
+
+-   Run `download_steam_banners.ipynb` to download Steam banners.
+-   Run `GAN.ipynb` to train one of the suggested GANs, preferably DCGAN, to generate Steam banners.
+
 ## References
 
 -   [Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014.](https://arxiv.org/abs/1406.2661)
