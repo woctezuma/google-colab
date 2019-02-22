@@ -7,6 +7,33 @@ The goal of these [Google Colab](https://colab.research.google.com/) notebooks i
 -   Run `download_steam_banners.ipynb` to download Steam banners.
 -   Run `GAN.ipynb` to train one of the suggested GANs, preferably DCGAN, to generate Steam banners.
 
+## Results
+
+The dataset consists of 27,974 Steam banners with RGB channels and resized from 460x215 to 28x28 resolution.
+The aggregated dataset is stored in [`data/`](data/).
+
+A DCGAN model was trained for 500,000 updates with a mini-batch size of 128, which is about 2300 epochs.
+The trained generator and discriminator are stored in [`checkpoints/`](checkpoints/) every 100,000 iterations. The latest networks are `dcgan_generator.hd5` and `dcgan_discriminator.hd5`.
+
+### Generated Steam banners
+
+A grid of generated Steam banners:
+-   after 100,000 iterations:
+![Generated Steam banners after 100,000 iterations](https://github.com/woctezuma/google-colab/wiki/images_steam_dcgan/100000.png)
+-   after 200,000 iterations:
+![Generated Steam banners after 200,000 iterations](https://github.com/woctezuma/google-colab/wiki/images_steam_dcgan/200000.png)
+-   after 300,000 iterations:
+![Generated Steam banners after 300,000 iterations](https://github.com/woctezuma/google-colab/wiki/images_steam_dcgan/300000.png)
+-   after 400,000 iterations:
+![Generated Steam banners after 400,000 iterations](https://github.com/woctezuma/google-colab/wiki/images_steam_dcgan/400000.png)
+-   after 500,000 iterations:
+![Generated Steam banners after 500,000 iterations](https://github.com/woctezuma/google-colab/wiki/images_steam_dcgan/500000.png)
+
+### Real Steam banners
+
+A grid of real Steam banners:
+![Real Steam banners](https://github.com/woctezuma/google-colab/wiki/real_steam_banners.png)
+
 ## References
 
 -   [Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014.](https://arxiv.org/abs/1406.2661)
