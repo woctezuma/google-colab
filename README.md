@@ -12,8 +12,9 @@ The goal of these [Google Colab](https://colab.research.google.com/) notebooks i
 The dataset consists of 27,974 Steam banners with RGB channels and resized from 460x215 to 28x28 resolution.
 The aggregated dataset is stored in [`data/`](data/).
 
-A DCGAN model was trained for 500,000 updates with a mini-batch size of 128, which is about 2300 epochs.
-The trained generator and discriminator are stored in [`checkpoints/`](checkpoints/) every 100,000 iterations. The latest networks are `dcgan_generator.hd5` and `dcgan_discriminator.hd5`.
+A DCGAN model was trained for 500,000 updates with a mini-batch size of 128, which is about 2,300 epochs.
+The trained generator and discriminator are stored in [`checkpoints/`](checkpoints/) every 100,000 iterations.
+The latest networks are `dcgan_generator.hd5` and `dcgan_discriminator.hd5`.
 
 ### Generated Steam banners
 
