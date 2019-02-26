@@ -1,6 +1,6 @@
 # Google Colab
 
-The goal of these [Google Colab](https://colab.research.google.com/) notebooks is to catpure the distribution of Steam banners and generate samples with a DCGAN.
+The goal of these [Google Colab](https://colab.research.google.com/) notebooks is to catpure the distribution of Steam banners and sample with a DCGAN.
 
 ## Usage
 
