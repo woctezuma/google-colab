@@ -25,20 +25,20 @@ expected to have square proportions and to be a power of 2.
 ### Generated Steam banners
 
 A grid of generated Steam banners:
--   after 100,000 iterations:
+-   after 100,000 iterations: [4k display](https://github.com/woctezuma/google-colab/wiki/4k/100000_no_clip.png)
 ![Generated Steam banners after 100,000 iterations](https://github.com/woctezuma/google-colab/wiki/4k/100000.png)
--   after 200,000 iterations:
+-   after 200,000 iterations: [4k display](https://github.com/woctezuma/google-colab/wiki/4k/200000_no_clip.png)
 ![Generated Steam banners after 200,000 iterations](https://github.com/woctezuma/google-colab/wiki/4k/200000.png)
--   after 300,000 iterations:
+-   after 300,000 iterations: [4k display](https://github.com/woctezuma/google-colab/wiki/4k/300000_no_clip.png)
 ![Generated Steam banners after 300,000 iterations](https://github.com/woctezuma/google-colab/wiki/4k/300000.png)
--   after 400,000 iterations:
+-   after 400,000 iterations: [4k display](https://github.com/woctezuma/google-colab/wiki/4k/400000_no_clip.png)
 ![Generated Steam banners after 400,000 iterations](https://github.com/woctezuma/google-colab/wiki/4k/400000.png)
--   after 500,000 iterations:
+-   after 500,000 iterations: [4k display](https://github.com/woctezuma/google-colab/wiki/4k/500000_no_clip.png)
 ![Generated Steam banners after 500,000 iterations](https://github.com/woctezuma/google-colab/wiki/4k/500000.png)
 
 ### Real Steam banners
 
-A grid of real Steam banners:
+A grid of real Steam banners: [4k display](https://github.com/woctezuma/google-colab/wiki/4k/real_steam_banners_no_clip.png)
 ![Real Steam banners](https://github.com/woctezuma/google-colab/wiki/4k/real_steam_banners.png)
 
 ## References
