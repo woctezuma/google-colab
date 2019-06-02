@@ -16,7 +16,7 @@ A DCGAN model was trained for 500,000 updates with a mini-batch size of 128, whi
 After the training is done, the generator and discriminator networks are stored as `.hd5` files in a folder called `checkpoints/`.
 
 NB: A zip archive with 31,723 Steam banners, saved as .jpg files, with RGB channels and resized to 128x128 resolution,
-is also [provided](https://drive.google.com/open?id=1YLhdwgnhyP-eC4gHOmTsmuiUSr0XN5XJ). The data comes from [another of my Github projects](https://github.com/woctezuma/download-steam-banners) based on Steam API instead of SteamSpy API.
+is also [provided](https://github.com/woctezuma/download-steam-banners-data). The data comes from [another of my Github projects](https://github.com/woctezuma/download-steam-banners) based on Steam API instead of SteamSpy API.
 This dataset is not used here, due to constraints of Google Colab (available RAM, and computation time before the hosted 
 runtime is at risk to be killed), but it could be used in future projects such as StyleGAN for which image size is 
 expected to have square proportions and to be a power of 2.
