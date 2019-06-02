@@ -10,11 +10,10 @@ The goal of these [Google Colab](https://colab.research.google.com/) notebooks i
 ## Results
 
 The dataset consists of 27,974 Steam banners with RGB channels and resized from 460x215 to 28x28 resolution.
-The aggregated dataset is stored as a NumPy structure (.npy) in [`data/`](data/).
+For faster computations, the dataset is aggregated and stored as a NumPy structure (`.npy`) in a folder called `data/`.
  
 A DCGAN model was trained for 500,000 updates with a mini-batch size of 128, which is about 2,300 epochs.
-The trained generator and discriminator are stored in [`checkpoints/`](checkpoints/) every 100,000 iterations.
-The latest networks are `dcgan_generator.hd5` and `dcgan_discriminator.hd5`.
+After the training is done, the generator and discriminator networks are stored as `.hd5` files in a folder called `checkpoints/`.
 
 NB: A zip archive with 31,723 Steam banners, saved as .jpg files, with RGB channels and resized to 128x128 resolution,
 is also provided. The data comes from [another of my Github projects](https://github.com/woctezuma/download-steam-banners) based on Steam API instead of SteamSpy API.
