@@ -40,6 +40,9 @@ A grid of real Steam banners: [4k display](https://github.com/woctezuma/google-c
 -   [Keras implementations of Generative Adversarial Networks (GAN)](https://github.com/eriklindernoren/Keras-GAN)
 -   [Implementation of Deep Convolutional GAN](https://github.com/Newmu/dcgan_code)
 -   [Image Completion with Deep Learning in TensorFlow, in 2016.](http://bamos.github.io/2016/08/09/deep-completion/)
--   [StyleGAN](https://github.com/NVlabs/stylegan)
--   [Steam-StyleGAN](https://github.com/woctezuma/steam-stylegan)
-
+-   StyleGAN2:
+    -   [StyleGAN2](https://github.com/NVlabs/stylegan2)
+    -   [Steam-StyleGAN2](https://github.com/woctezuma/steam-stylegan2)
+-   StyleGAN:
+    -   [StyleGAN1](https://github.com/NVlabs/stylegan)
+    -   [Steam-StyleGAN1](https://github.com/woctezuma/steam-stylegan)
