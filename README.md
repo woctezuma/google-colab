@@ -1,5 +1,7 @@
 # Google Colab
 
+![Examples of generated Steam banners](https://raw.githubusercontent.com/wiki/woctezuma/google-colab/img/generated_banners.jpg)
+
 The goal of these [Google Colab](https://colab.research.google.com/) notebooks is to catpure the distribution of Steam banners and sample with a DCGAN.
 
 ## Usage
