@@ -25,13 +25,13 @@ expected to have square proportions and to be a power of 2.
 
 Results obtained with different numbers of iterations are shown [on the Wiki](https://github.com/woctezuma/google-colab/wiki).
 
-A grid of generated Steam banners after 500,000 iterations: [4k display](https://github.com/woctezuma/google-colab/wiki/4k/500000_no_clip.png)
-![Generated Steam banners after 500,000 iterations](https://github.com/woctezuma/google-colab/wiki/4k/500000.png)
+A grid of generated Steam banners after 500,000 iterations: [4k display](https://github.com/woctezuma/google-colab/wiki/4k/500000_no_clip.jpg)
+![Generated Steam banners after 500,000 iterations](https://github.com/woctezuma/google-colab/wiki/4k/500000.jpg)
 
 ### Real Steam banners
 
-A grid of real Steam banners: [4k display](https://github.com/woctezuma/google-colab/wiki/4k/real_steam_banners_no_clip.png)
-![Real Steam banners](https://github.com/woctezuma/google-colab/wiki/4k/real_steam_banners.png)
+A grid of real Steam banners: [4k display](https://github.com/woctezuma/google-colab/wiki/4k/real_steam_banners_no_clip.jpg)
+![Real Steam banners](https://github.com/woctezuma/google-colab/wiki/4k/real_steam_banners.jpg)
 
 ## References
 
