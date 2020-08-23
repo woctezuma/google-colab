@@ -6,8 +6,8 @@ The goal of these [Google Colab](https://colab.research.google.com/) notebooks i
 
 ## Usage
 
--   Run `download_steam_banners.ipynb` to download Steam banners.
--   Run `GAN.ipynb` to train one of the suggested GANs, preferably DCGAN, to generate Steam banners.
+-   Run [`download_steam_banners.ipynb`][download_steam_banners] to download Steam banners.
+-   Run [`GAN.ipynb`][GAN] to train one of the suggested GANs, preferably DCGAN, to generate Steam banners.
 
 ## Results
 
@@ -48,3 +48,8 @@ A grid of real Steam banners: [4k display](https://github.com/woctezuma/google-c
 -   StyleGAN:
     -   [StyleGAN1](https://github.com/NVlabs/stylegan)
     -   [Steam-StyleGAN1](https://github.com/woctezuma/steam-stylegan)
+
+<!-- Definitions -->
+
+[download_steam_banners]: <https://colab.research.google.com/github/woctezuma/google-colab/blob/master/download_steam_banners.ipynb>
+[GAN]: <https://colab.research.google.com/github/woctezuma/google-colab/blob/master/GAN.ipynb>
