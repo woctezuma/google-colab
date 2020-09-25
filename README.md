@@ -11,6 +11,9 @@ The goal of these [Google Colab](https://colab.research.google.com/) notebooks i
 -   Run [`GAN.ipynb`][GAN] to train one of the suggested GANs, preferably DCGAN, to generate Steam banners.
 [![Open In Colab][colab-badge]][GAN]
 
+NB: If you need to pre-process data, e.g. to remove duplicates, have a look at:
+[![Open In Colab][colab-badge]][duplicate-removal]
+
 ## Results
 
 The dataset consists of 27,974 Steam banners with RGB channels and resized from 460x215 to 28x28 resolution.
@@ -55,5 +58,6 @@ A grid of real Steam banners: [4k display](https://github.com/woctezuma/google-c
 
 [download_steam_banners]: <https://colab.research.google.com/github/woctezuma/google-colab/blob/master/download_steam_banners.ipynb>
 [GAN]: <https://colab.research.google.com/github/woctezuma/google-colab/blob/master/GAN.ipynb>
+[duplicate-removal]: <https://colab.research.google.com/github/woctezuma/google-colab/blob/master/remove_duplicates.ipynb>
 
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
