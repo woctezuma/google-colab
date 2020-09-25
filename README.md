@@ -11,7 +11,7 @@ The goal of these [Google Colab](https://colab.research.google.com/) notebooks i
 -   Run [`GAN.ipynb`][GAN] to train one of the suggested GANs, preferably DCGAN, to generate Steam banners.
 [![Open In Colab][colab-badge]][GAN]
 
-NB: If you need to pre-process data, e.g. to remove duplicates, have a look at:
+NB: If you need to pre-process data, e.g. to remove duplicates, have a look at [`remove_duplicates.ipynb`][duplicate-removal].
 [![Open In Colab][colab-badge]][duplicate-removal]
 
 ## Results
